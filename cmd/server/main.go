@@ -1,6 +1,6 @@
 package main
 
-import "goapi/configs"
+import "github.com/donluidi/goapi/configs"
 
 func main() {
 	config, err := configs.LoadConfig(".")

@@ -1,7 +1,7 @@
 package database
 
 import (
-	"goapi/internal/entity"
+	"github.com/donluidi/goapi/internal/entity"
 )
 
 type UserInterface interface {

@@ -1,8 +1,9 @@
 package test
 
 import (
-	"goapi/internal/entity"
 	"testing"
+
+	"github.com/donluidi/goapi/internal/entity"
 
 	"github.com/stretchr/testify/assert"
 )

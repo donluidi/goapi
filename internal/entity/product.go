@@ -1,8 +1,9 @@
 package entity
 
 import (
-	"goapi/pkg"
 	"time"
+
+	"github.com/donluidi/goapi/pkg"
 )
 
 type product struct {

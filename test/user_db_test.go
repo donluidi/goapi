@@ -1,9 +1,10 @@
 package test
 
 import (
-	"goapi/internal/entity"
-	"goapi/internal/infra/database"
 	"testing"
+
+	"github.com/donluidi/goapi/internal/entity"
+	"github.com/donluidi/goapi/internal/infra/database"
 
 	"github.com/stretchr/testify/assert"
 	"gorm.io/driver/sqlite"
