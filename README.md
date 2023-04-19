@@ -1,5 +1,5 @@
 # goapi
 Go Api Course
 
-For run
-go mod tidy on root path
+For run, on root path execute the command:
+go mod tidy
