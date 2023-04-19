@@ -1,7 +1,7 @@
 package entity
 
 import (
-	"goapi/pkg"
+	"github.com/donluidi/goapi/pkg"
 
 	"golang.org/x/crypto/bcrypt"
 )

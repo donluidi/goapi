@@ -1,4 +1,4 @@
-module github.com/donluidi
+module github.com/donluidi/goapi
 
 go 1.20
 

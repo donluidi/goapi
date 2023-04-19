@@ -10,7 +10,7 @@ type UserDB struct {
 	DB *gorm.DB
 }
 
-func NewProductDB(db *gorm.DB) *UserDB {
+func NewUserDB(db *gorm.DB) *UserDB {
 	return &UserDB{
 		DB: db,
 	}
